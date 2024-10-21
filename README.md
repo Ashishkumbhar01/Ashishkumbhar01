@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Ashishkumbhar01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<iframe src="https://github.com/sponsors/Ashishkumbhar01/card" title="Sponsor Ashishkumbhar01" height="225" width="600" style="border: 0;"></iframe>
+- 👀 I’m interested in PHP and Laravel
+- 🌱 I’m currently learning Laravel and Others PHP frameworks.
+- 📫 How to reach me on Twitter/X: Ashishkumbhar22
+- 
 
 <!---
 Ashishkumbhar01/Ashishkumbhar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
